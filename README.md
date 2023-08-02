@@ -1,7 +1,7 @@
 # Online Shooter Game with Unreal Engine 5
 
 Welcome to the Online Shooter Game project with Unreal Engine 5! This project is based on the tutorial by instructor Stephen Ulibarri and focuses on creating a multiplayer shooter experience. You will learn how to connect players across the internet, set up multiplayer matchmaking, and implement various weapons, pickups, and gameplay mechanics.
-![Game Screenshot](Saved\Screenshots\WindowsEditor\HighresScreenshot00001.png)
+![Game Screenshot](https://lupre.at/blaster/HighresScreenshot00001.png)
 
 ## Project Description
 
@@ -13,9 +13,9 @@ In this project, we are developing an action-packed Online Shooter using Unreal 
 - Crouching, aiming, jumping, strafing, reloading, and throwing, all in multiplayer
 - Working HUD with health and shield bars, ammo count, score and defeats, and game timers
 - Custom game modes, custom match states, and use of core classes used in multiplayer
-- ![Game Screenshot](Saved\Screenshots\WindowsEditor\HighresScreenshot00007.png)
+- ![Game Screenshot](https://lupre.at/blaster/HighresScreenshot00007.png)
 
-  ![Game Screenshot](Saved\Screenshots\WindowsEditor\HighresScreenshot00009.png)
+  ![Game Screenshot](https://lupre.at/blaster/HighresScreenshot00009.png)
 
 ## Setup and Installation (comming soon)
 
@@ -35,7 +35,7 @@ Please note that this version is still in development, and there may be bugs or 
 If you encounter any issues or have questions during the setup or testing process, please feel free to reach out to me via [email](mailto:lukas@lupre.at). Your support and feedback are crucial to the development of this game.
 
 Thank you for joining me on this journey, and I look forward to hearing your thoughts and suggestions as we work together to create an exciting Online Shooter!
-![Game Screenshot](Saved\Screenshots\WindowsEditor\HighresScreenshot00003.png)
+![Game Screenshot](https://lupre.at/blaster/HighresScreenshot00003.png)
 
 ty.
 
@@ -47,5 +47,5 @@ Thank you for your support and happy coding!
 
 ## ScreenShots from current state
 
-![Game Screenshot](Saved\Screenshots\WindowsEditor\HighresScreenshot00005.png)
-![Game Screenshot](Saved\Screenshots\WindowsEditor\HighresScreenshot00006.png)
+![Game Screenshot](https://lupre.at/blaster/HighresScreenshot00005.png)
+![Game Screenshot](https://lupre.at/blaster/HighresScreenshot00006.png)
